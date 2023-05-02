@@ -1,6 +1,6 @@
-# **DNS-Trust Database Bind9 || DNS Bersih TrustPositif**
+# **DNS Sehat TrustPositif**
 
-![Kominfo](/asset/kominfo_.png) ![Aduan Content](/asset/aduan_content.png) ![Bind9](/asset/Bind_9_ISC.png)
+![Kominfo](/asset/kominfo_.png) ![Aduan Content](/asset/aduan_content.png)
 
 ## **Sebagai Bentuk Dukungan Terhadap Program "Internet Sehat" Milik Pemerintah Negara Kesatuan Republik Indonesia**
 
