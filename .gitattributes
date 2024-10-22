@@ -5,3 +5,4 @@ raw/trustdb.adh filter=lfs diff=lfs merge=lfs -text
 raw/trustdb.txt filter=lfs diff=lfs merge=lfs -text
 *.adh filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
+raw/ filter=lfs diff=lfs merge=lfs -text
